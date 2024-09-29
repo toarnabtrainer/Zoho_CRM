@@ -24,7 +24,7 @@ Here’s how to create a **Lead** in Zoho CRM, along with three example leads.
 
 5. **Save the Lead**:
    - After filling out the necessary details, click **Save** to create the lead in your CRM.
-
+---
 ### Example 1: Lead for a Marketing Company
 - **Lead Name**: John Doe
 - **Company**: XYZ Marketing
