@@ -2,6 +2,7 @@
 
 In Zoho CRM, a **Deal** (also referred to as a **Potential** or **Opportunity**) represents a sales opportunity or a potential revenue-generating engagement with a customer. Deals help sales teams track sales processes, manage sales pipelines, and forecast revenue. Each deal typically contains details like the deal name, associated contacts, expected revenue, closing date, and deal stage (e.g., prospecting, negotiation, closed won/lost).
 
+---
 ### How to Create a Deal in Zoho CRM
 
 Here’s how you can create a deal in Zoho CRM:
@@ -26,7 +27,7 @@ Here’s how you can create a deal in Zoho CRM:
 
 5. **Save the Deal**:
    - Once you’ve filled in all the required information, click **Save** to create the deal.
-
+---
 ### Examples of Deals
 
 Here are five examples of deals that could be managed in Zoho CRM:
