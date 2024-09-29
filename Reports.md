@@ -8,7 +8,7 @@ In Zoho CRM, a **Report** is a structured presentation of data that provides ins
 2. **Summary Reports**: Aggregate data to provide insights, often featuring grouped data.
 3. **Matrix Reports**: Cross-tab reports that allow for multi-dimensional analysis.
 4. **Graphical Reports**: Visual representations of data using charts and graphs.
-
+---
 ### How to Create a Report in Zoho CRM
 
 Here’s how you can create a report in Zoho CRM:
