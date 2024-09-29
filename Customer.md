@@ -27,7 +27,7 @@ In Zoho CRM, a **Customer** is typically an **Account** that has completed a pur
 
 6. **Convert Leads**: (if applicable)
    - If you are converting a lead into a customer, select the lead, click on **Convert**, and ensure that the account is saved as a customer.
-
+---
 ### Examples of Customers:
 
 Here are five examples of customers in Zoho CRM:
