@@ -6,7 +6,7 @@ In Zoho CRM, an **Activity** refers to any interaction or engagement related to 
 1. **Tasks**: Action items that need to be completed.
 2. **Events**: Scheduled appointments or meetings.
 3. **Calls**: Phone calls made or received concerning a contact or deal.
-
+---
 ### How to Create an Activity in Zoho CRM
 
 Here’s how you can create an activity in Zoho CRM:
