@@ -33,7 +33,7 @@ Here’s how you can create an activity in Zoho CRM:
 
 6. **Save the Activity**:
    - Once you’ve filled in all necessary details, click **Save** to create the activity.
-
+---
 ### Examples of Activities
 
 Here are five examples of activities that could be created in Zoho CRM:
