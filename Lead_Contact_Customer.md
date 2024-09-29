@@ -24,7 +24,7 @@ The lifecycle in Zoho CRM often follows: **Lead → Contact → Customer**.
 
 ---
 
-## Example of Leads, Contacts, and Customers in Zoho CRM:
+## Examples of Leads, Contacts, and Customers in Zoho CRM:
 
 Here are some examples to illustrate the differences between **Leads**, **Contacts**, and **Customers** in Zoho CRM:
 
